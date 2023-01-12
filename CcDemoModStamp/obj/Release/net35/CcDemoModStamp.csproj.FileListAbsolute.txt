@@ -1,0 +1,5 @@
+C:\Users\samb0\FNAF CC Employee Assessment Demo v1-0-2\CcDemoModStamp\CcDemoModStamp\obj\Release\net35\CcDemoModStamp.csproj.AssemblyReference.cache
+C:\Users\samb0\FNAF CC Employee Assessment Demo v1-0-2\CcDemoModStamp\CcDemoModStamp\obj\Release\net35\CcDemoModStamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samb0\FNAF CC Employee Assessment Demo v1-0-2\CcDemoModStamp\CcDemoModStamp\obj\Release\net35\CcDemoModStamp.AssemblyInfoInputs.cache
+C:\Users\samb0\FNAF CC Employee Assessment Demo v1-0-2\CcDemoModStamp\CcDemoModStamp\obj\Release\net35\CcDemoModStamp.AssemblyInfo.cs
+C:\Users\samb0\FNAF CC Employee Assessment Demo v1-0-2\CcDemoModStamp\CcDemoModStamp\obj\Release\net35\CcDemoModStamp.csproj.CoreCompileInputs.cache
